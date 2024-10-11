@@ -97,22 +97,20 @@ Challenge paper sessions will consist of oral presentations allowing 15-20 minut
 <tbody>
 
 <!--<div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>-->
-
-<!--Sheffield E032-->
-<tr><td valign="top" style="margin-right: 5em;"></td>
-<td><b> Paper Title 1  </b><br /> <span class="author">Author 1<sup>1</sup>, Author 2<sup>1</sup></span><i>(<sup>1</sup>Affiliation)</i></td>
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td style="padding: 5px;"><b> Spatial-FullSubNet for Hearing Aid Processing  </b><br /> <span class="author">Xiang Hao, Jibin Wu</span> <i>(The Hong Kong Polytechnic University, China)</i></td>
 </tr>
 
-<tr><td valign="top" style="margin-right: 5em;"></td>
-<td><b> Paper Title 2  </b><br /> <span class="author">Author 1<sup>1</sup>, Author 2<sup>1</sup></span><i>(<sup>1</sup>Affiliation)</i></td>
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td style="padding: 5px;"><b> End-to-End Multi-Channel Target Speech Enhancement System Based on Online SpatialNet  </b><br /> <span class="author">Yindi Yang et al.</span> <i>(Elehear, US)</i></td>
 </tr>
 
-<tr><td valign="top" style="margin-right: 5em;"></td>
-<td><b> Paper Title 3  </b><br /> <span class="author">Author 1<sup>1</sup>, Author 2<sup>1</sup></span><i>(<sup>1</sup>Affiliation)</i></td>
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td style="padding: 5px;"><b> The JAIST System for Task 1 of The 3rd Clarity Enhancement Challenge  </b><br /> <span class="author">Huy Quoc Nguyen, Candy Olivia Mawalim, Masashi Unoki</span> <i>(Japan Advanced Institute of Science and Technology, Japan)</i></td>
 </tr>
 
-<tr><td valign="top" style="margin-right: 5em;"></td>
-<td><b> Paper Title 4  </b><br /> <span class="author">Author 1<sup>1</sup>, Author 2<sup>1</sup></span><i>(<sup>1</sup>Affiliation)</i></td>
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td style="padding: 5px;"><b> MIMO-DPRNN-ConvTasNet for the 3rd Clarity Enhancement Challenge  </b><br /> <span class="author">Robert Sutherland, Stefan Goetze and Jon Barker</span> <i>(University of Sheffield, UK)</i></td>
 </tr>
 
 </tbody>
