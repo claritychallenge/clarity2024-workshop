@@ -19,7 +19,7 @@ Timings and session details are provided below. All times are UK local time (i.e
 <tr><td>09:30</td><td><span class="bold"><a href="#session1">Challenge Papers</a></span></td></tr>
 <tr><td>11:00</td><td>Break</td></tr>
 <tr><td>11:30</td><td><a href="#keynote">Invited Talk</a></td></tr>
-<tr><td>12:3</td><td>Clarity Future Directions </td></tr>
+<tr><td>12:30</td><td>Clarity Future Directions </td></tr>
 <tr><td>12:50</td><td>Prizes and conclusions </td></tr>
 <tr><td>13:00</td><td>Close</td></tr>
 
@@ -82,9 +82,9 @@ TBA
 
 <a name="session1"></a>
 
-Challenge paper sessions will consist of oral presentations allowing 15-20 minutes per team and 5 minutes for Q&A.
-
 <h1>Challenge Papers</h1>
+
+Challenge paper sessions will consist of oral presentations allowing 15-20 minutes per team and 5 minutes for Q&A.
 
 <div class="card  m-3">
 <div class="card-body">
