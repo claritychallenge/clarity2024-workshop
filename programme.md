@@ -14,14 +14,14 @@ Timings and session details are provided below. All times are UK local time (i.e
 
 <table style="margin-left: 1em;">
 <tbody>
-<tr><td>x:xx</td><td>Welcome</td></tr>
-<tr><td>x:xx</td><td>The Clarity CEC3 Overview</td></tr>
-<tr><td>x:xx</td><td><a href="#keynote">Invited Talk</a></td></tr>
-<tr><td>x:xx</td><td>Break</td></tr>
-<tr><td>x:xx</td><td><span class="bold"><a href="#session1">Challenge Papers</a></span></td></tr>
-<tr><td>x:xx</td><td> Clarity Future Directions </td></tr>
-<tr><td>x:xx</td><td> Prizes and conclusions </td></tr>
-<tr><td>x:xx</td><td>Close</td></tr>
+<tr><td>09:00</td><td>Welcome</td></tr>
+<tr><td>09:10</td><td>The Clarity CEC3 Overview</td></tr>
+<tr><td>09:30</td><td><span class="bold"><a href="#session1">Challenge Papers</a></span></td></tr>
+<tr><td>11:00</td><td>Break</td></tr>
+<tr><td>11:30</td><td><a href="#keynote">Invited Talk</a></td></tr>
+<tr><td>12:3</td><td>Clarity Future Directions </td></tr>
+<tr><td>12:50</td><td>Prizes and conclusions </td></tr>
+<tr><td>13:00</td><td>Close</td></tr>
 
 </tbody>
 </table>
@@ -37,10 +37,6 @@ Links to technical reports and videos for all talks are provided in the programm
 
 <div class="card-header">
 <div class="row align-items-center">
-
-<!--<div class="col-sm-3">
-<img src="./assets/images/smeds-photo.png" alt="Karolina Smeds" class="float-left rounded-circle" style="width:100%" />
-</div>-->
 
 <div class="col-sm-2">
 <img src="./assets/images/avatar.png" alt="Speaker" class="float-left rounded-circle" style="width:60%; height:60%;" />
@@ -97,13 +93,6 @@ Challenge paper sessions will consist of oral presentations allowing 15-20 minut
 <tbody>
 
 <!--<div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>-->
-<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td style="padding: 5px;"><b> Spatial-FullSubNet for Hearing Aid Processing  </b><br /> <span class="author">Xiang Hao, Jibin Wu</span> <i>(The Hong Kong Polytechnic University, China)</i></td>
-</tr>
-
-<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td style="padding: 5px;"><b> End-to-End Multi-Channel Target Speech Enhancement System Based on Online SpatialNet  </b><br /> <span class="author">Yindi Yang et al.</span> <i>(Elehear, US)</i></td>
-</tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
 <td style="padding: 5px;"><b> The JAIST System for Task 1 of The 3rd Clarity Enhancement Challenge  </b><br /> <span class="author">Huy Quoc Nguyen, Candy Olivia Mawalim, Masashi Unoki</span> <i>(Japan Advanced Institute of Science and Technology, Japan)</i></td>
@@ -111,6 +100,14 @@ Challenge paper sessions will consist of oral presentations allowing 15-20 minut
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
 <td style="padding: 5px;"><b> MIMO-DPRNN-ConvTasNet for the 3rd Clarity Enhancement Challenge  </b><br /> <span class="author">Robert Sutherland, Stefan Goetze and Jon Barker</span> <i>(University of Sheffield, UK)</i></td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td style="padding: 5px;"><b> End-to-End Multi-Channel Target Speech Enhancement System Based on Online SpatialNet  </b><br /> <span class="author">Yindi Yang, Ming Jiang, Zhihao Guo and Eric Miao</span> <i>(Elehear, Canada, China)</i></td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
+<td style="padding: 5px;"><b> Spatial-FullSubNet for Hearing Aid Processing  </b><br /> <span class="author">Xiang Hao, Jibin Wu</span> <i>(The Hong Kong Polytechnic University, China)</i></td>
 </tr>
 
 </tbody>
