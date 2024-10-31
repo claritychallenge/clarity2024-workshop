@@ -43,12 +43,12 @@ Links to technical reports and videos for all talks are provided in the programm
 </div>
 
 <div class="col-sm-2">
-<h1 class="lead">Speaker TBA <div class="text-muted">Affiliation</div> </h1>
+<h1 class="lead">Stefan Raufer / Peter Derleth <div class="text-muted">Sonova AG</div> </h1>
 </div>
 
-<div class="col-sm-4">
+<div class="col-sm-6">
 
-<h1>Title TBA</h1>
+<h1>Phonak’s Deep Spheric Optimized Neural Integrated Chip and Audio Quality Estimator DNN (TBC)</h1>
 
 <button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractSmeds" aria-expanded="false" aria-controls="collapseAbstractSmeds">
     Abstract and Bio
@@ -63,16 +63,16 @@ Links to technical reports and videos for all talks are provided in the programm
 <div class="collapse" id="collapseAbstractSmeds">
 
 <div class="card-body">
-<h1 class="card-title">Title TBA</h1>
+<h1 class="card-title">Phonak’s Deep Spheric Optimized Neural Integrated Chip and Audio Quality Estimator DNN (TBC)</h1>
 
 <h2>Abstract</h2>
 
 TBA
 
-<h2>Bio</h2>
+<!--<h2>Bio</h2>
 
 TBA
-
+-->
 </div>
 </div>
 <!---------------------------------------------------->

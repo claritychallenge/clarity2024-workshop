@@ -67,8 +67,9 @@ This virtual workshop will feature
 
           <div class="board-list">
             <ul>
-                <li> TBA<br /><a href="#" class="text-muted"></a></li>
-                 <li> <a href="programme.html"> More info </a> </li>
+            <li> Stefan Raufer <br /> <a href="#" class="text-muted">Sonova AG, Switzerland</a></li>                 
+            <li> Peter Derleth<br /> <a href="#" class="text-muted">Sonova AG, Switzerland</a></li>                 
+            <li> <a href="programme.html"> More info </a> </li>
             </ul>
         </div>
         <h2> Dates </h2>
