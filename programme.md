@@ -48,7 +48,7 @@ Links to technical reports and videos for all talks are provided in the programm
 
 <div class="col-sm-6">
 
-<h1>Phonak’s Deep Spheric Optimized Neural Integrated Chip and Audio Quality Estimator DNN (TBC)</h1>
+<h1>Development and testing of Sonova’s hearing aid with DNN-based speech enhancement: meeting the constraints of a wearable solution </h1>
 
 <button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractSmeds" aria-expanded="false" aria-controls="collapseAbstractSmeds">
     Abstract and Bio
@@ -63,7 +63,7 @@ Links to technical reports and videos for all talks are provided in the programm
 <div class="collapse" id="collapseAbstractSmeds">
 
 <div class="card-body">
-<h1 class="card-title">Phonak’s Deep Spheric Optimized Neural Integrated Chip and Audio Quality Estimator DNN (TBC)</h1>
+<h1 class="card-title">Development and testing of Sonova’s hearing aid with DNN-based speech enhancement: meeting the constraints of a wearable solution </h1>
 
 <h2>Abstract</h2>
 
