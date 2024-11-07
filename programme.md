@@ -48,11 +48,10 @@ Links to technical reports and videos for all talks are provided in the programm
 
 <div class="col-sm-6">
 
-<h1>Development and testing of Sonova’s hearing aid with DNN-based speech enhancement: meeting the constraints of a wearable solution </h1>
+<h1> Deep learning-based denoising for hearing aids: Meeting the technological and audiological constraints of a wearable solution </h1>
 
-<button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractSmeds" aria-expanded="false" aria-controls="collapseAbstractSmeds">
-    Abstract and Bio
-
+<button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractSonova" aria-expanded="false" aria-controls="collapseAbstractSonova">
+Improving speech understanding in noise is the top priority for people with hearing loss. While amplifying sound is sufficient to improve speech intelligibility in quiet environments, removing background noise is essential to improve speech clarity in noisy situations. In this keynote, we will review traditional noise cancelling approaches and discuss promises of DNN-based denoising approaches to improve speech intelligibility in noise. We will talk about the unique challenges of implementing DNN-based denoising solutions in wearables and constraints imposed by hearing aids. We will provide insights into Phonak’s recently launched Sphere DNN and highlight the co-development of the software architecture, hardware architecture, and training pipeline. Our speech enhancement DNN lives within the latency, power, and computational constraints of hearing aids and improves speech intelligibility in noise for people with hearing loss. We will furthermore discuss considerations for designing clinical studies and discuss study results of a recent study that demonstrated the clinical benefit of Phonak’s Sphere DNN solution. Lastly, we will talk about pitfalls in evaluating speech enhancement technologies for wearables, such as the neglect of latency considerations, open couplings, limitations of study setups, and using SNR as an outcome measure to demonstrate algorithm benefit.
   </button>
 
 </div>
@@ -60,10 +59,10 @@ Links to technical reports and videos for all talks are provided in the programm
 </div>
 
 <!---------------------------------------------------->
-<div class="collapse" id="collapseAbstractSmeds">
+<div class="collapse" id="collapseAbstractSonova">
 
 <div class="card-body">
-<h1 class="card-title">Development and testing of Sonova’s hearing aid with DNN-based speech enhancement: meeting the constraints of a wearable solution </h1>
+<h1 class="card-title"> Deep learning-based denoising for hearing aids: Meeting the technological and audiological constraints of a wearable solution </h1>
 
 <h2>Abstract</h2>
 
