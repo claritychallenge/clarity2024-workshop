@@ -11,9 +11,9 @@ title: Machine Learning Challenges for Hearing Aids (Clarity-2024)
         <p><big><i><b>5th December 2024, Virtual Workshop</b></i></big></p>
     </font>
 
-<!--<a href="https://us02web.zoom.us/webinar/register/WN_pvhHQdLLToOIcpLbciPyXg" target="_blank">
+<a href="https://us02web.zoom.us/webinar/register/WN_pvhHQdLLToOIcpLbciPyXg" target="_blank">
       <button class="btn btn-primary">Click here to register me for the Clarity 2024 Workshop!</button>
-    </a> -->
+    </a>
 
 <br/>
 <p>One of the biggest challenges for hearing-impaired listeners is understanding speech in the presence of background noise. Everyday social noise levels can have a devastating impact on speech intelligibility. Inability to communicate effectively can lead to social withdrawal and isolation. Disabling hearing impairment affects 360 million people worldwide, with that number increasing because of the ageing population. Unfortunately, current hearing aid technology is often ineffective in noisy situations. Although amplification can restore audibility, it does not compensate fully for the effects of hearing loss.</p>
@@ -76,7 +76,7 @@ This virtual workshop will feature
 
         <div class="board-list">
             <ul>
-                <li> <b>Registration opens</b>: 12th November</li>
+                <li> <a href="registration.html"> Registration now open</a></li>
                 <li> <a href="dates.html">More info</a> </li>
             </ul>
         </div>
