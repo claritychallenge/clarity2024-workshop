@@ -11,7 +11,7 @@ title: Machine Learning Challenges for Hearing Aids (Clarity-2024)
         <p><big><i><b>5th December 2024, Virtual Workshop</b></i></big></p>
     </font>
 
-<a href="https://us02web.zoom.us/webinar/register/WN_pvhHQdLLToOIcpLbciPyXg" target="_blank">
+<a href="https://us06web.zoom.us/webinar/register/WN_LA-c-FWNS8ukTva9j3WuHg#/registration" target="_blank">
       <button class="btn btn-primary">Click here to register me for the Clarity 2024 Workshop!</button>
     </a>
 
