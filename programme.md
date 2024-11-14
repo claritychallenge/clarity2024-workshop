@@ -100,19 +100,19 @@ Challenge paper sessions will consist of oral presentations allowing 15-20 minut
 <!--<div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>-->
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td style="padding: 5px;"><b> The JAIST System for Task 1 of The 3rd Clarity Enhancement Challenge  </b><br /> <span class="author">Huy Quoc Nguyen, Candy Olivia Mawalim, Masashi Unoki</span> <i>(Japan Advanced Institute of Science and Technology, Japan)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">09:40-10:00</td><td style="padding: 5px;"><b> The JAIST System for Task 1 of The 3rd Clarity Enhancement Challenge  </b><br /> <span class="author">Huy Quoc Nguyen, Candy Olivia Mawalim, Masashi Unoki</span> <i>(Japan Advanced Institute of Science and Technology, Japan)</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td style="padding: 5px;"><b> MIMO-DPRNN-ConvTasNet for the 3rd Clarity Enhancement Challenge  </b><br /> <span class="author">Robert Sutherland, Stefan Goetze and Jon Barker</span> <i>(University of Sheffield, UK)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">10:00-10:20</td><td style="padding: 5px;"><b> MIMO-DPRNN-ConvTasNet for the 3rd Clarity Enhancement Challenge  </b><br /> <span class="author">Robert Sutherland, Stefan Goetze and Jon Barker</span> <i>(University of Sheffield, UK)</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td style="padding: 5px;"><b> End-to-End Multi-Channel Target Speech Enhancement System Based on Online SpatialNet  </b><br /> <span class="author">Yindi Yang, Ming Jiang, Zhihao Guo and Eric Miao</span> <i>(Elehear, Canada, China)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">10:20-10:45</td><td style="padding: 5px;"><b> End-to-End Multi-Channel Target Speech Enhancement System Based on Online SpatialNet  </b><br /> <span class="author">Yindi Yang, Ming Jiang, Zhihao Guo and Eric Miao</span> <i>(Elehear, Canada, China)</i></td>
 </tr>
 
 <tr><td valign="top" style="margin-right: 5em; padding: 5px;"></td>
-<td style="padding: 5px;"><b> Spatial-FullSubNet for Hearing Aid Processing  </b><br /> <span class="author">Xiang Hao, Jibin Wu</span> <i>(The Hong Kong Polytechnic University, China)</i></td>
+<td valign="top" style="margin-right: 5em; padding: 5px;">10:45-11:10</td><td style="padding: 5px;"><b> Spatial-FullSubNet for Hearing Aid Processing  </b><br /> <span class="author">Xiang Hao, Jibin Wu</span> <i>(The Hong Kong Polytechnic University, China)</i></td>
 </tr>
 
 </tbody>
