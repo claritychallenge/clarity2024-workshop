@@ -15,14 +15,20 @@ Timings and session details are provided below. All times are UK local time (i.e
 <table style="margin-left: 1em;">
 <tbody>
 <tr><td>09:00</td><td>Welcome</td></tr>
-<tr><td>09:10</td><td>The Clarity CEC3 Overview</td></tr>
-<tr><td>09:30</td><td><span class="bold"><a href="#session1">Challenge Papers</a></span></td></tr>
-<tr><td>11:00</td><td>Break</td></tr>
-<tr><td>11:30</td><td><a href="#keynote">Invited Talk</a></td></tr>
-<tr><td>12:30</td><td>Clarity Future Directions </td></tr>
-<tr><td>12:50</td><td>Prizes and conclusions </td></tr>
-<tr><td>13:00</td><td>Close</td></tr>
-
+<tr><td valign="top">09:05</td><td>The Clarity CEC3 Overview
+ <table style="margin-left: 1em;">
+        <tbody>
+            <tr><td></td><td>Task 1 - Real impulse responses</td> <td>(Trevor Cox)</td></tr>
+            <tr><td></td><td>Task 2 - Hearing aid microphones</td> <td>(Jon Barker)</td></tr>
+            <tr><td></td><td>Task 3 - Real noise backgrounds</td> <td>(John Culling)</td></tr>
+        </tbody>
+    </table>
+</td></tr>
+<tr><td>09:40</td><td><span class="bold"><a href="#session1">Challenge Papers</a>  </span></td> <td>(Chair: Jennifer Firth)</td></tr>
+<tr><td>11:10</td><td>Break</td></tr>
+<tr><td>11:30</td><td><a href="#keynote">Invited Talk</a> </td><td>(Chair: Graham Naylor)</td></tr>
+<tr><td>12:30</td><td>Clarity Future Directions </td> <td>(Chair: Simone Graetzer)</td></tr>
+<tr><td>13:30</td><td>Close</td></tr>
 </tbody>
 </table>
 </div>

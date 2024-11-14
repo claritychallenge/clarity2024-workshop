@@ -16,6 +16,7 @@ title: Machine Learning Challenges for Hearing Aids (Clarity-2024)
     </a>
 
 <br/>
+<br/>
 <p>One of the biggest challenges for hearing-impaired listeners is understanding speech in the presence of background noise. Everyday social noise levels can have a devastating impact on speech intelligibility. Inability to communicate effectively can lead to social withdrawal and isolation. Disabling hearing impairment affects 360 million people worldwide, with that number increasing because of the ageing population. Unfortunately, current hearing aid technology is often ineffective in noisy situations. Although amplification can restore audibility, it does not compensate fully for the effects of hearing loss.</p>
 
 <p>The aim of this virtual workshop is to report on the <b>3rd Clarity Enhancement Challenge (CEC3)</b>, the third in a series of machine learning challenges targeted at helping those with a hearing impairment. CEC3 has increased the complexity beyond the previous CEC2 challenge by introducing tasks with real room acoustics, real hearing aid microphone recordings and recordings of complex acoustic scenes. <b>Systems are being evaluated using both objective measures and listening tests</b>.</p>
