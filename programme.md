@@ -45,7 +45,7 @@ Links to technical reports and videos for all talks are provided in the programm
 <div class="row align-items-center">
 
 <div class="col-sm-2">
-<img src="./assets/images/avatar.png" alt="Speaker" class="float-left rounded-circle" style="width:60%; height:60%;" />
+<img src="./assets/images/raufer_photo.png" alt="Speaker" class="float-left rounded-circle" style="width:80%; height:80%;" />
 </div>
 
 <div class="col-sm-2">
@@ -74,10 +74,9 @@ Abstract
 
 Improving speech understanding in noise is the top priority for people with hearing loss. While amplifying sound is sufficient to improve speech intelligibility in quiet environments, removing background noise is essential to improve speech clarity in noisy situations. In this keynote, we will review traditional noise cancelling approaches and discuss promises of DNN-based denoising approaches to improve speech intelligibility in noise. We will talk about the unique challenges of implementing DNN-based denoising solutions in wearables and constraints imposed by hearing aids. We will provide insights into Phonak’s recently launched Sphere DNN and highlight the co-development of the software architecture, hardware architecture, and training pipeline. Our speech enhancement DNN lives within the latency, power, and computational constraints of hearing aids and improves speech intelligibility in noise for people with hearing loss. We will furthermore discuss considerations for designing clinical studies and discuss study results of a recent study that demonstrated the clinical benefit of Phonak’s Sphere DNN solution. Lastly, we will talk about pitfalls in evaluating speech enhancement technologies for wearables, such as the neglect of latency considerations, open couplings, limitations of study setups, and using SNR as an outcome measure to demonstrate algorithm benefit
 
-<!--<h2>Bio</h2>
+<h2>Bio</h2>
 
-TBA
--->
+Stefan Raufer, Senior Research Engineer: Stefan joined Sonova in 2021 and is developing audiological concepts for new hearing aid features. Together with other teams, Stefan makes sure that new technologies translate to user benefits. Stefan holds a PhD in speech and hearing sciences from Harvard University and earned his bachelor’s and master’s degree in Hearing Technology and Audiology from Oldenburg University.
 </div>
 </div>
 <!---------------------------------------------------->
