@@ -60,7 +60,7 @@ Links to technical reports and videos for all talks are provided in the programm
 Abstract
 </button>
 
-<a href="https://youtu.be/VM4iO9oszF0" target="_blank" class="btn btn-secondary" style="color:white; margin: 10px; border-radius: 4px;">
+<a href="https://youtu.be/FFWB5gIGkrY" target="_blank" class="btn btn-secondary" style="color:white; margin: 10px; border-radius: 4px;">
 Watch on YouTube
 </a>
 
